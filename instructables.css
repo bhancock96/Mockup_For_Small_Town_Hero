@@ -23,7 +23,7 @@ h1.titlebar { font-size: 1.7em; color: #444; margin: 0; display: inline; font-we
 .groupPg-RSS-btn-block img {margin-left:-27px;margin-top:-1px;}
 .groupPg-topic-container {width:600px;height:50px;}
 
-.sidebar-actions .btn {display:block; margin-bottom:10px}
+.sidebar-actions .btn {display:block; margin-bottom:10px; height: 50px;}
 #group-join-follow .btn {float:left; width:106px}
 #group-join-follow #join-btn {margin-right:5px}
 #group-admin-features {background:#dedede; border:1px solid #ccc; line-height:27px; padding:10px; margin-bottom:10px; -webkit-border-radius:6px; -moz-border-radius:6px; border-radius:6px}
@@ -2051,7 +2051,7 @@ li:hover .icon-orangeboard {background-position:-24px -552px;}
 body.contest-page #omni {margin-top:0; padding-top:0;  background:url(/static/img/contest-page-divider.png) repeat-y scroll -290px top #f3f3f3}
 body.contest-page #omni > .container {width:1016px}
 body.contest-page .tab-container {border-top-left-radius:9px}
-#contest-masthead {width:1016px; height:200px; overflow:hidden; margin-bottom:0px; border-radius:9px 9px 0 0; border-bottom:1px solid #c2c2c2; background-color:#555; background-image:url(/static/img/linen_texture_med2.jpg) !important; background-attachment:scroll}
+#contest-masthead {width:1016px; height:200px; overflow:hidden; margin-bottom:0px; border-radius:9px 9px 0 0; border-bottom:1px solid #c2c2c2; background-color:#ED9263; background-image:url(/static/img/linen_texture_med2.jpg) !important; background-attachment:scroll}
 #contest-masthead img {width:1016px}
 #contest-header {display:none}
 
